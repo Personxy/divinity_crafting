@@ -27,6 +27,19 @@ th {
   padding:10px 0;
 }
 
+#filter label {
+  margin-right: 6px;
+}
+
+#filter input[type="search"] {
+  padding: 6px 10px;
+  width: min(520px, 90vw);
+}
+
+#filter select {
+  padding: 6px 10px;
+}
+
 tbody {
   height: 98%;
   overflow-y:auto;

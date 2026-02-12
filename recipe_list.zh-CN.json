@@ -1,0 +1,3994 @@
+[
+  {
+    "Result": "银箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "铁砧",
+    "Part 2": "银锭",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造双手斧 01",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块钢锭",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "打造双手斧 02",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块钢锭",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "打造双手斧 03",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块钢锭",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "打造双手斧 04",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块钢锭",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "打造双手斧 05",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块钢锭",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "打造双手剑 01",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块铁锭",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "打造双手剑 02",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块铁锭",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "打造双手剑 03",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块铁锭",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "打造双手剑 04",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块铁锭",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "打造双手剑 05",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "大块铁锭",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "打造斧 01",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "钢锭",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "打造斧 02",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "钢锭",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "打造斧 03",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "钢锭",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "打造斧 04",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "钢锭",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "打造斧 05",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "钢锭",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "打造匕首 01",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "小刀",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "打造匕首 02",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "小刀",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "打造匕首 03",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "小刀",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "打造匕首 04",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "小刀",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "打造匕首 05",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "小刀",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "打造剑 01",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "铁锭",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "打造剑 02",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "铁锭",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "打造剑 03",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "铁锭",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "打造剑 04",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "铁锭",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "打造剑 05",
+    "Recipe Type": "武器",
+    "Part 1": "铁砧",
+    "Part 2": "铁锭",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "附加移动",
+    "Recipe Type": "护甲",
+    "Part 1": "铁砧",
+    "Part 2": "鳞甲",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加耐久",
+    "Recipe Type": "护甲",
+    "Part 1": "铁砧",
+    "Part 2": "金属盾牌",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "附加格挡",
+    "Recipe Type": "护甲",
+    "Part 1": "铁砧",
+    "Part 2": "金属盾牌",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "附加格挡",
+    "Recipe Type": "护甲",
+    "Part 1": "铁砧",
+    "Part 2": "金属盾牌",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "附加格挡",
+    "Recipe Type": "护甲",
+    "Part 1": "铁砧",
+    "Part 2": "金属盾牌",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "冒险者的斧丁",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件斧握柄",
+    "Part 2": "冒险者的斧丙",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "冒险者的斧丙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件斧斧头",
+    "Part 2": "冒险者的斧乙",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "冒险者的斧乙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件斧箭杆",
+    "Part 2": "冒险者的斧甲",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "冒险者的弓丙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件弓树枝",
+    "Part 2": "冒险者的弓乙",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "冒险者的弓丁",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件弓把手",
+    "Part 2": "冒险者的弓丙",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "冒险者的弓乙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件弓弦",
+    "Part 2": "冒险者的弓甲",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "冒险者的法杖乙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件法杖树枝",
+    "Part 2": "冒险者的法杖甲",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "冒险者的法杖丙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件法杖雕刻",
+    "Part 2": "冒险者的法杖乙",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "冒险者的法杖丁",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件法杖宝石",
+    "Part 2": "冒险者的法杖丙",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "冒险者的剑丁",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件剑刃",
+    "Part 2": "冒险者的剑丙",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "冒险者的剑乙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件剑护手",
+    "Part 2": "冒险者的剑甲",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "冒险者的剑丙",
+    "Recipe Type": "武器",
+    "Part 1": "冒险者的部件剑剑柄",
+    "Part 2": "冒险者的剑乙",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "电击手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "空气精华",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "附加空气抗性",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "空气精华",
+    "Part 2": "任意护甲或盾牌",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加空气伤害",
+    "Recipe Type": "武器附魔",
+    "Part 1": "空气精华",
+    "Part 2": "任意武器",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "鹿角头盔",
+    "Recipe Type": "护甲",
+    "Part 1": "鹿角（魔法）",
+    "Part 2": "皮革头盔",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "苹果派面团",
+    "Recipe Type": "食物",
+    "Part 1": "苹果",
+    "Part 2": "面团",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "涂毒苹果",
+    "Recipe Type": "食物",
+    "Part 1": "苹果",
+    "Part 2": "毒素药剂｜蛤蟆菌蘑菇｜黏液桶｜肠子",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "隐形药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "护甲强化药剂",
+    "Part 2": "空气抗性药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "大块空气抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级空气抗性药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级空气抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "空气抗性药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块护甲强化药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级护甲强化药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级护甲强化药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "护甲强化药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块大地抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级大地抗性药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级大地抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "大地抗性药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块火焰抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级火焰抗性药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级火焰抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "火焰抗性药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块隐形药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级隐形药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级隐形药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "隐形药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块隔空取物药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级隔空取物药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级隔空取物药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "隔空取物药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块水抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级水抗性药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级水抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "水抗性药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块体质药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级体质药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块敏捷药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级敏捷药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块治疗药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级治疗药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "大块智力药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级智力药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块感知药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级感知药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块抗性全药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级抗性全药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块速度药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级速度药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块力量药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "中级力量药剂",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "中级体质药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级体质药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级敏捷药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级敏捷药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级治疗药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级治疗药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "中级智力药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级智力药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级感知药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级感知药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级抗性全药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级抗性全药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级速度药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级速度药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "中级力量药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "增长剂",
+    "Part 2": "初级力量药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "穷人的最佳胸甲",
+    "Recipe Type": "护甲",
+    "Part 1": "桶",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造盾牌 01",
+    "Recipe Type": "护甲",
+    "Part 1": "桶盖",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造盾牌 02",
+    "Recipe Type": "护甲",
+    "Part 1": "桶盖",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造盾牌 03",
+    "Recipe Type": "护甲",
+    "Part 1": "桶盖",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "瓶之啤酒",
+    "Recipe Type": "食物",
+    "Part 1": "啤酒桶",
+    "Part 2": "空瓶",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之啤酒",
+    "Recipe Type": "食物",
+    "Part 1": "啤酒桶",
+    "Part 2": "空杯",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "空白技能书",
+    "Recipe Type": "物品",
+    "Part 1": "技能卷轴",
+    "Part 2": "技能卷轴之同学派",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "[某]技能书",
+    "Recipe Type": "物品",
+    "Part 1": "空白技能书",
+    "Part 2": "[某]技能卷轴",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之啤酒",
+    "Recipe Type": "食物",
+    "Part 1": "瓶之啤酒",
+    "Part 2": "空杯",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "破碎瓶",
+    "Recipe Type": "物品",
+    "Part 1": "研钵与研杵｜锤子",
+    "Part 2": "瓶之啤酒｜瓶之油｜瓶之水瓶之葡萄酒｜空瓶",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "爆炸箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "一瓶油",
+    "Part 2": "火焰箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "减速箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "一瓶油",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "蒸汽箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "瓶之水",
+    "Part 2": "火焰箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "玻璃杯之葡萄酒",
+    "Recipe Type": "食物",
+    "Part 1": "一瓶葡萄酒",
+    "Part 2": "空杯",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之葡萄酒",
+    "Recipe Type": "食物",
+    "Part 1": "一瓶葡萄酒",
+    "Part 2": "空杯",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "打造弓 01",
+    "Recipe Type": "武器",
+    "Part 1": "弓弦",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造弓 02",
+    "Recipe Type": "武器",
+    "Part 1": "弓弦",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造弓 03",
+    "Recipe Type": "武器",
+    "Part 1": "弓弦",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造弓 04",
+    "Recipe Type": "武器",
+    "Part 1": "弓弦",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造弓 05",
+    "Recipe Type": "武器",
+    "Part 1": "弓弦",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "附加伤害",
+    "Recipe Type": "武器",
+    "Part 1": "弓弦",
+    "Part 2": "弓｜弩",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "弩无弦",
+    "Recipe Type": "武器",
+    "Part 1": "树枝",
+    "Part 2": "铁锭",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造长杖 01",
+    "Recipe Type": "武器",
+    "Part 1": "树枝",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造长杖 02",
+    "Recipe Type": "武器",
+    "Part 1": "树枝",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造长杖 03",
+    "Recipe Type": "武器",
+    "Part 1": "树枝",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造长杖 04",
+    "Recipe Type": "武器",
+    "Part 1": "树枝",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "护甲穿透手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "破碎瓶",
+    "Part 2": "空手雷",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "一桶水",
+    "Recipe Type": "食物",
+    "Part 1": "桶",
+    "Part 2": "水桶｜水井",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "一杯牛奶",
+    "Recipe Type": "食物",
+    "Part 1": "一桶牛奶",
+    "Part 2": "空杯",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "水牛军刀",
+    "Recipe Type": "武器",
+    "Part 1": "水牛（护身符）",
+    "Part 2": "旧军刀（独特）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "魅惑箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "魅惑箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "奶酪面包面团",
+    "Recipe Type": "食物",
+    "Part 1": "奶酪",
+    "Part 2": "面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "鸡脚（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "鸡脚",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "鸡脚（魔法）（大）",
+    "Recipe Type": "物品",
+    "Part 1": "鸡脚（大）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "鸡爪（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "鸡脚（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "鸡爪（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "鸡脚（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "鸡爪（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "鸡脚（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "鸡爪（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "鸡脚（魔法）（大）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "鸡爪（魔法）（腰带）（大）",
+    "Recipe Type": "护甲",
+    "Part 1": "鸡脚（魔法）（大）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "鸡爪（魔法）（戒指）（大）",
+    "Recipe Type": "护甲",
+    "Part 1": "鸡脚（魔法）（大）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "爪（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "爪",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "爪（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "爪（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "爪（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "爪（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "爪（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "爪（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "爪（锋利）（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "爪（锋利）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "爪（魔法）（护身符）（锋利）",
+    "Recipe Type": "护甲",
+    "Part 1": "爪（锋利）（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "爪（魔法）（腰带）（锋利）",
+    "Recipe Type": "护甲",
+    "Part 1": "爪（锋利）（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "爪（魔法）（戒指）（锋利）",
+    "Recipe Type": "护甲",
+    "Part 1": "爪（锋利）（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造布料靴子 01",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造布料靴子 02",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造布料靴子 02",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造布料胸甲 01",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造布料胸甲 02",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造布料胸甲 03",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造布料胸甲 04",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造布料胸甲 05",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "打造长袍 01",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "魔法针与线",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "打造长袍特雷松",
+    "Recipe Type": "护甲",
+    "Part 1": "布料碎片",
+    "Part 2": "染料（神秘）",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "木制小雕像",
+    "Recipe Type": "物品",
+    "Part 1": "布料碎片",
+    "Part 2": "线",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "便携厨房",
+    "Recipe Type": "物品",
+    "Part 1": "烹饪锅",
+    "Part 2": "营火",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "烹饪罐头盔",
+    "Recipe Type": "护甲",
+    "Part 1": "烹饪锅",
+    "Part 2": "锤子",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "打造弩 02",
+    "Recipe Type": "武器",
+    "Part 1": "弩无弦",
+    "Part 2": "弓弦",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造弩 03",
+    "Recipe Type": "武器",
+    "Part 1": "弩无弦",
+    "Part 2": "弓弦",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造弩 04",
+    "Recipe Type": "武器",
+    "Part 1": "弩无弦",
+    "Part 2": "弓弦",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造弩 05",
+    "Recipe Type": "武器",
+    "Part 1": "弩无弦",
+    "Part 2": "弓弦",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "爆炸箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "杯之油",
+    "Part 2": "火焰箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "减速箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "杯之油",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "蒸汽箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "杯之水",
+    "Part 2": "火焰箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "体质减益药剂",
+    "Part 2": "感知减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "敏捷减益药剂",
+    "Part 2": "体质减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "敏捷减益药剂",
+    "Part 2": "智力减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "敏捷减益药剂",
+    "Part 2": "感知减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "敏捷减益药剂",
+    "Part 2": "速度减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "智力减益药剂",
+    "Part 2": "体质减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "智力减益药剂",
+    "Part 2": "感知减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "智力减益药剂",
+    "Part 2": "速度减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "速度减益药剂",
+    "Part 2": "体质减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "速度减益药剂",
+    "Part 2": "感知减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "力量减益药剂",
+    "Part 2": "体质减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "力量减益药剂",
+    "Part 2": "敏捷减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "力量减益药剂",
+    "Part 2": "智力减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "力量减益药剂",
+    "Part 2": "感知减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "全减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "力量减益药剂",
+    "Part 2": "速度减益药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "矮人炖菜",
+    "Recipe Type": "食物",
+    "Part 1": "正餐",
+    "Part 2": "杯之啤酒",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "精灵炖菜",
+    "Recipe Type": "食物",
+    "Part 1": "正餐",
+    "Part 2": "番茄酱",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "魅惑箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "麻草",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "染成黑色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（黑色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "染成蓝色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（蓝色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "染成绿色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（绿色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "染成紫色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（紫色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "染成红色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（红色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "染成白色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（白色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "染成黄色",
+    "Recipe Type": "护甲",
+    "Part 1": "染料（黄色）",
+    "Part 2": "任意护甲或衣物",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "地震手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "大地精华",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加大地抗性",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "大地精华",
+    "Part 2": "任意护甲或盾牌",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加大地伤害",
+    "Recipe Type": "武器",
+    "Part 1": "大地精华",
+    "Part 2": "任意武器",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "瓶之水",
+    "Recipe Type": "食物",
+    "Part 1": "空瓶",
+    "Part 2": "水桶｜水井",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "一瓶油",
+    "Recipe Type": "物品",
+    "Part 1": "空瓶",
+    "Part 2": "油桶",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之水",
+    "Recipe Type": "食物",
+    "Part 1": "空杯",
+    "Part 2": "瓶之水｜水桶｜水井",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "油瓶手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "空瓶",
+    "Part 2": "杯之油｜油桶｜瓶之油",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之水",
+    "Recipe Type": "食物",
+    "Part 1": "空杯",
+    "Part 2": "瓶之水｜水桶｜水井",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "空气抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "果胶菇",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "护甲强化药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "轻语木",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "大地抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "地舌菇",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "火焰抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "花儿菇蘑菇",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "隐形药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "虚空精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "水抗性药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "蓝鳃菇",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "大块体质药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "法杭草",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块感知药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "眼球",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块速度药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "鸡冠花",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "中级体质药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "法杭草",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "中级治疗药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "硬币包蘑菇",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "中级感知药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "眼球",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "中级速度药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "鸡冠花",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "初级体质药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "法杭草",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "初级治疗药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "硬币包蘑菇",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "初级感知药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "眼球",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "初级速度药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "空药剂瓶",
+    "Part 2": "鸡冠花",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "爆炸箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "爆炸箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "眼球（诡异）",
+    "Recipe Type": "物品",
+    "Part 1": "眼球",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "眼球（诡异）（阴森）",
+    "Recipe Type": "物品",
+    "Part 1": "眼球（阴森）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "眼球（诡异）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "眼球（诡异）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "眼球（诡异）（护身符）（阴森）",
+    "Recipe Type": "护甲",
+    "Part 1": "眼球（诡异）（阴森）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "羽毛",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）（精致）",
+    "Recipe Type": "物品",
+    "Part 1": "羽毛（精致）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "羽毛（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "羽毛（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "羽毛（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "羽毛（魔法）（护身符）（精致）",
+    "Recipe Type": "护甲",
+    "Part 1": "羽毛（魔法）（精致）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）（腰带）（精致）",
+    "Recipe Type": "护甲",
+    "Part 1": "羽毛（魔法）（精致）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛（魔法）（戒指）（精致）",
+    "Recipe Type": "护甲",
+    "Part 1": "羽毛（魔法）（精致）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造剑之行星",
+    "Recipe Type": "武器",
+    "Part 1": "炽热心",
+    "Part 2": "瓶之旋涡泥",
+    "Skill": "工艺",
+    "Level": "0"
+  },
+  {
+    "Result": "火焰箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "火焰箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "集束炸弹手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "火焰精华",
+    "Part 2": "空手雷",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "附加火焰抗性",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "火焰精华",
+    "Part 2": "任意护甲或盾牌",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加火焰伤害",
+    "Recipe Type": "武器附魔",
+    "Part 1": "火焰精华",
+    "Part 2": "任意武器",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "初级抗性全药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "火焰抗性药剂",
+    "Part 2": "大地抗性药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "面团",
+    "Recipe Type": "食物",
+    "Part 1": "面粉",
+    "Part 2": "杯之水｜杯之水｜桶之水｜瓶之水",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "冰冻箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "冰冻箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "燃烧瓶手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "引信",
+    "Part 2": "一瓶油",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "强化价值",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "黄金圣杯（追加内容）",
+    "Part 2": "任意护甲",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "线",
+    "Recipe Type": "物品",
+    "Part 1": "毛发",
+    "Part 2": "毛发",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "开锁器",
+    "Recipe Type": "物品",
+    "Part 1": "锤子",
+    "Part 2": "九英寸钉子",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "空气法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "空气法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大地法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "大地法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "火焰法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "火焰法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "水法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "水法杖",
+    "Recipe Type": "武器",
+    "Part 1": "惰性木制法杖",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "随机空气技能卷轴（新手）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "空气技能卷轴",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "随机空气技能卷轴（熟练）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "空气技能卷轴",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "随机空气技能卷轴（大师）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "空气技能卷轴",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "随机空气技能卷轴（大师+）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "空气技能卷轴",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "随机大地技能卷轴（新手）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "大地技能卷轴",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "随机大地技能卷轴（熟练）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "大地技能卷轴",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "随机大地技能卷轴（大师）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "大地技能卷轴",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "随机大地技能卷轴（大师+）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "大地技能卷轴",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "随机火焰技能卷轴（新手）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "火焰技能卷轴",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "随机火焰技能卷轴（熟练）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "火焰技能卷轴",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "随机火焰技能卷轴（大师）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "火焰技能卷轴",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "随机火焰技能卷轴（大师+）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "火焰技能卷轴",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "随机水技能卷轴（新手）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "水技能卷轴",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "随机水技能卷轴（熟练）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "水技能卷轴",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "随机水技能卷轴（大师）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "水技能卷轴",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "随机水技能卷轴（大师+）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "水技能卷轴",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "随机巫术卷轴（新手）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "巫术技能卷轴",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "随机巫术卷轴（熟练）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "巫术技能卷轴",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "随机巫术卷轴（大师）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "巫术技能卷轴",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "随机巫术卷轴（大师+）",
+    "Recipe Type": "物品",
+    "Part 1": "墨水罐与羽毛笔（魔法）",
+    "Part 2": "巫术技能卷轴",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "化学战手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "肠子",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "水气球手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "肠子",
+    "Part 2": "瓶之水｜水桶｜桶之水",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "大块铁锭",
+    "Recipe Type": "物品",
+    "Part 1": "铁锭",
+    "Part 2": "铁锭",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "一罐蜂蜜",
+    "Recipe Type": "食物",
+    "Part 1": "罐",
+    "Part 2": "蜂巢",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之牛奶与蜂蜜",
+    "Recipe Type": "食物",
+    "Part 1": "一罐蜂蜜",
+    "Part 2": "一杯牛奶",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "闪光手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "果胶菇",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "附加火焰伤害",
+    "Recipe Type": "武器附魔",
+    "Part 1": "约书亚香料（众筹）",
+    "Part 2": "任意武器",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "击倒箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "击倒箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造皮革靴子 01",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造皮革靴子 02",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造皮革靴子 03",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造皮革靴子 04",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "打造皮革胸甲 01",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造皮革胸甲 02",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造皮革胸甲 03",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造皮革胸甲 04",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "魔法针与线",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "背包",
+    "Recipe Type": "物品",
+    "Part 1": "皮革碎片",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "附加防御",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革碎片",
+    "Part 2": "布料护甲",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "木屑",
+    "Recipe Type": "物品",
+    "Part 1": "原木",
+    "Part 2": "斧",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "木制木桩",
+    "Recipe Type": "物品",
+    "Part 1": "原木",
+    "Part 2": "小刀｜匕首",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "空气法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "空气法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大地法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "大地法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "火焰法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "火焰法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "水法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "水法杖戊",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖乙",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "空气法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "空气法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大地法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "大地法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "火焰法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "火焰法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "水法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "水法杖壬",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丙",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "空气法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "空气法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大地法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "大地法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "火焰法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "火焰法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "水法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "水法杖Ｍ",
+    "Recipe Type": "武器",
+    "Part 1": "战利品法杖丁",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "大块治疗药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "中级治疗药剂",
+    "Part 2": "中级治疗药剂",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造金属靴子 01",
+    "Recipe Type": "护甲",
+    "Part 1": "金属碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造金属靴子 02",
+    "Recipe Type": "护甲",
+    "Part 1": "金属碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造金属靴子 03",
+    "Recipe Type": "护甲",
+    "Part 1": "金属碎片",
+    "Part 2": "铁砧",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "打造金属胸甲 01",
+    "Recipe Type": "护甲",
+    "Part 1": "金属碎片",
+    "Part 2": "锤子",
+    "Skill": "锻造",
+    "Level": "3"
+  },
+  {
+    "Result": "打造金属胸甲 02",
+    "Recipe Type": "护甲",
+    "Part 1": "金属碎片",
+    "Part 2": "锤子",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "打造金属胸甲 03",
+    "Recipe Type": "护甲",
+    "Part 1": "金属碎片",
+    "Part 2": "锤子",
+    "Skill": "锻造",
+    "Level": "5"
+  },
+  {
+    "Result": "附加防御",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "金属碎片",
+    "Part 2": "布料／皮革护甲或盾牌",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "大块力量药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级体质药剂",
+    "Part 2": "骨灰",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "中级力量药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级体质药剂",
+    "Part 2": "骨灰",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "初级力量药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级体质药剂",
+    "Part 2": "骨灰",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "中级治疗药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级治疗药剂",
+    "Part 2": "初级治疗药剂",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "大块智力药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级感知药剂",
+    "Part 2": "虚空精华",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "中级智力药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级感知药剂",
+    "Part 2": "虚空精华",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "初级智力药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级感知药剂",
+    "Part 2": "虚空精华",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "隔空取物药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级抗性全药剂",
+    "Part 2": "麻草",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "大块敏捷药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级速度药剂",
+    "Part 2": "腱筋",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "中级敏捷药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级速度药剂",
+    "Part 2": "腱筋",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "初级敏捷药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "初级速度药剂",
+    "Part 2": "腱筋",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "月尘",
+    "Recipe Type": "物品",
+    "Part 1": "月长石",
+    "Part 2": "研钵与研杵",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "附加伤害",
+    "Recipe Type": "武器",
+    "Part 1": "月长石",
+    "Part 2": "法杖｜棍棒",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "纸张之纸",
+    "Recipe Type": "物品",
+    "Part 1": "木屑糊",
+    "Part 2": "烤炉",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "针与线",
+    "Recipe Type": "物品",
+    "Part 1": "针",
+    "Part 2": "线",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "开锁器",
+    "Recipe Type": "物品",
+    "Part 1": "针",
+    "Part 2": "针",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "钉子炸弹手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "九英寸钉子",
+    "Part 2": "空手雷",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "树枝与钉子",
+    "Recipe Type": "武器",
+    "Part 1": "九英寸钉子",
+    "Part 2": "树枝",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "免疫滑倒",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "九英寸钉子",
+    "Part 2": "任意鞋子",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "减速箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "油桶",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "强化价值",
+    "Recipe Type": "护甲",
+    "Part 1": "珍珠",
+    "Part 2": "任意盾牌",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "羽毛",
+    "Recipe Type": "物品",
+    "Part 1": "枕头",
+    "Part 2": "小刀｜匕首",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "恋爱手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "仙尘",
+    "Part 2": "空恋爱手雷｜空香水瓶",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "鹿角（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "仙尘",
+    "Part 2": "鹿角",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "墨水罐与羽毛笔（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "仙尘",
+    "Part 2": "墨水罐与羽毛笔",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "魔法针与线",
+    "Recipe Type": "物品",
+    "Part 1": "仙尘",
+    "Part 2": "针与线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "仙尘",
+    "Part 2": "骷髅",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）（古老）",
+    "Recipe Type": "物品",
+    "Part 1": "仙尘",
+    "Part 2": "骷髅（古老）",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）（纹身）",
+    "Recipe Type": "物品",
+    "Part 1": "仙尘",
+    "Part 2": "骷髅（纹身）",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "附加防御",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "盘子碎片",
+    "Part 2": "护甲鳞",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "附加防御",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "便携厨房",
+    "Part 2": "护甲皮革",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "冷土豆泥",
+    "Recipe Type": "食物",
+    "Part 1": "土豆",
+    "Part 2": "锤子",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "土豆粥",
+    "Recipe Type": "食物",
+    "Part 1": "土豆",
+    "Part 2": "一杯牛奶",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "墨水罐与羽毛笔",
+    "Recipe Type": "物品",
+    "Part 1": "羽毛笔",
+    "Part 2": "墨水罐",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "兔子脚（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "兔子脚",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "兔子脚（魔法）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（幸运）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "兔子脚（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "兔子脚（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "兔子脚（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "兔子脚（超级）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）（护身符）",
+    "Part 2": "弓弦",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "兔子脚（超级）（护身符）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）（护身符）（幸运）",
+    "Part 2": "弓弦",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "兔子脚（魔法）（护身符）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）（幸运）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "兔子脚（魔法）（腰带）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）（幸运）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "兔子脚（魔法）（戒指）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（魔法）（幸运）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "兔子脚（超级）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（超级）（护身符）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "兔子脚（超级）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（超级）（护身符）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "兔子脚（超级）（腰带）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（超级）（护身符）（幸运）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "兔子脚（超级）（戒指）（幸运）",
+    "Recipe Type": "护甲",
+    "Part 1": "兔子脚（超级）（护身符）（幸运）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "老鼠尾巴",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（长）",
+    "Recipe Type": "物品",
+    "Part 1": "老鼠尾巴（长）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "老鼠尾巴（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "老鼠尾巴（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "老鼠尾巴（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（护身符）（长）",
+    "Recipe Type": "护甲",
+    "Part 1": "老鼠尾巴（魔法）（长）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（腰带）（长）",
+    "Recipe Type": "护甲",
+    "Part 1": "老鼠尾巴（魔法）（长）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "老鼠尾巴（魔法）（戒指）（长）",
+    "Recipe Type": "护甲",
+    "Part 1": "老鼠尾巴（魔法）（长）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "正餐",
+    "Recipe Type": "食物",
+    "Part 1": "生肉",
+    "Part 2": "烤炉",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "开锁器",
+    "Recipe Type": "食物",
+    "Part 1": "修理锤子",
+    "Part 2": "九英寸钉子",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "引信",
+    "Recipe Type": "手雷",
+    "Part 1": "绳子",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "化学战手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "腐烂鸡蛋",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加防御",
+    "Recipe Type": "护甲",
+    "Part 1": "鳞碎片",
+    "Part 2": "鳞甲",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "附加感知 + 附加敏捷",
+    "Recipe Type": "武器附魔",
+    "Part 1": "瞄准镜",
+    "Part 2": "弓｜弩",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "附加抗性泰尼布里姆",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "虚空精华",
+    "Part 2": "任意盾牌",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "附加潜行",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "虚空精华",
+    "Part 2": "任意护甲",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "空气技能卷轴",
+    "Recipe Type": "物品",
+    "Part 1": "纸张之纸",
+    "Part 2": "空气精华",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "大地技能卷轴",
+    "Recipe Type": "物品",
+    "Part 1": "纸张之纸",
+    "Part 2": "大地精华",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "火焰技能卷轴",
+    "Recipe Type": "物品",
+    "Part 1": "纸张之纸",
+    "Part 2": "火焰精华",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "水技能卷轴",
+    "Recipe Type": "物品",
+    "Part 1": "纸张之纸",
+    "Part 2": "水精华",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "巫术技能卷轴",
+    "Recipe Type": "物品",
+    "Part 1": "纸张之纸",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "银箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "银箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "骷髅（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "骷髅（魔法）（护身符）（古老）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）（古老）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "骷髅（魔法）（腰带）（古老）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）（古老）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）（戒指）（古老）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）（古老）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "骷髅（魔法）（护身符）（纹身）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）（纹身）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "骷髅（魔法）（腰带）（纹身）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）（纹身）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "骷髅（魔法）（戒指）（纹身）",
+    "Recipe Type": "护甲",
+    "Part 1": "骷髅（魔法）（纹身）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "减速箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "减速箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "烟幕箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "烟幕箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "开锁器",
+    "Recipe Type": "物品",
+    "Part 1": "肥皂",
+    "Part 2": "钥匙",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "仙尘",
+    "Recipe Type": "物品",
+    "Part 1": "星尘",
+    "Part 2": "骨灰",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "仙尘",
+    "Recipe Type": "物品",
+    "Part 1": "星尘",
+    "Part 2": "月尘",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "星尘",
+    "Recipe Type": "物品",
+    "Part 1": "星辰草",
+    "Part 2": "研钵与研杵",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "海星（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "海星",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "海星（魔法）（发光）",
+    "Recipe Type": "物品",
+    "Part 1": "海星（发光）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "神圣手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "海星（魔法）",
+    "Part 2": "空神圣手雷",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "海星（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "海星（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "神圣手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "海星（魔法）（护身符）",
+    "Part 2": "空神圣手雷",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "神圣手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "海星（魔法）（护身符）（发光）",
+    "Part 2": "空神圣手雷",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "神圣手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "海星（魔法）（发光）",
+    "Part 2": "空神圣手雷",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "海星（魔法）（护身符）（发光）",
+    "Recipe Type": "护甲",
+    "Part 1": "海星（魔法）（发光）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "静电云箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "静电云箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "蒸汽云箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "蒸汽箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "腱筋",
+    "Recipe Type": "物品",
+    "Part 1": "强韧腱筋",
+    "Part 2": "小刀｜匕首",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "眩晕箭",
+    "Recipe Type": "箭矢",
+    "Part 1": "眩晕箭头",
+    "Part 2": "箭箭杆",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "一杯茶",
+    "Recipe Type": "食物",
+    "Part 1": "茶草本",
+    "Part 2": "杯之水",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之茶",
+    "Recipe Type": "食物",
+    "Part 1": "茶草本",
+    "Part 2": "杯之水",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "附加泰尼布里姆效果",
+    "Recipe Type": "武器附魔",
+    "Part 1": "泰尼布里姆锭",
+    "Part 2": "任意武器",
+    "Skill": "泰尼布里姆",
+    "Level": "3"
+  },
+  {
+    "Result": "番茄酱",
+    "Recipe Type": "食物",
+    "Part 1": "番茄",
+    "Part 2": "锤子｜修理锤子",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "披萨面团",
+    "Recipe Type": "食物",
+    "Part 1": "番茄酱",
+    "Part 2": "面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "牙齿（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "牙齿",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "牙齿（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "牙齿（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "牙齿（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（护身符）（锋利）",
+    "Recipe Type": "护甲",
+    "Part 1": "牙齿（魔法）（锋利）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（腰带）（锋利）",
+    "Recipe Type": "护甲",
+    "Part 1": "牙齿（魔法）（锋利）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（戒指）（锋利）",
+    "Recipe Type": "护甲",
+    "Part 1": "牙齿（魔法）（锋利）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "牙齿（魔法）（锋利）",
+    "Recipe Type": "物品",
+    "Part 1": "牙齿（锋利）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "恐惧手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "受难灵魂",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "附加力量 + 附加敏捷",
+    "Recipe Type": "武器附魔",
+    "Part 1": "受难灵魂",
+    "Part 2": "任意武器",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "獠牙（魔法）",
+    "Recipe Type": "物品",
+    "Part 1": "獠牙",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "獠牙（魔法）（大块）",
+    "Recipe Type": "物品",
+    "Part 1": "獠牙（大块）",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "獠牙（魔法）（护身符）",
+    "Recipe Type": "护甲",
+    "Part 1": "獠牙（魔法）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "獠牙（魔法）（腰带）",
+    "Recipe Type": "护甲",
+    "Part 1": "獠牙（魔法）",
+    "Part 2": "绳子",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "獠牙（魔法）（戒指）",
+    "Recipe Type": "护甲",
+    "Part 1": "獠牙（魔法）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "獠牙（魔法）（护身符）（大块）",
+    "Recipe Type": "护甲",
+    "Part 1": "獠牙（魔法）（大块）",
+    "Part 2": "线",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "獠牙（魔法）（戒指）（大块）",
+    "Recipe Type": "护甲",
+    "Part 1": "獠牙（魔法）（大块）",
+    "Part 2": "戒指",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "巫毒娃娃 01",
+    "Recipe Type": "物品",
+    "Part 1": "巫毒娃娃",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "巫毒娃娃 02",
+    "Recipe Type": "物品",
+    "Part 1": "巫毒娃娃",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "巫毒娃娃 03",
+    "Recipe Type": "物品",
+    "Part 1": "巫毒娃娃",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "巫毒娃娃 04",
+    "Recipe Type": "物品",
+    "Part 1": "巫毒娃娃",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "巫毒娃娃 55",
+    "Recipe Type": "物品",
+    "Part 1": "巫毒娃娃",
+    "Part 2": "仙尘",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "洗衣盆与木板",
+    "Recipe Type": "物品",
+    "Part 1": "搓衣板",
+    "Part 2": "洗衣盆",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "冰霜手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "水精华",
+    "Part 2": "空手雷",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "附加水抗性",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "水精华",
+    "Part 2": "任意护甲或盾牌",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加水伤害",
+    "Recipe Type": "武器附魔",
+    "Part 1": "水精华",
+    "Part 2": "任意武器",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "初级抗性全药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "水抗性药剂",
+    "Part 2": "空气抗性药剂",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "粥",
+    "Recipe Type": "食物",
+    "Part 1": "小麦",
+    "Part 2": "一杯牛奶",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "面粉",
+    "Recipe Type": "物品",
+    "Part 1": "小麦",
+    "Part 2": "研钵与研杵",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "附加伤害",
+    "Recipe Type": "武器附魔",
+    "Part 1": "磨刀石｜磨刀石轮",
+    "Part 2": "任意武器",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "一瓶葡萄酒",
+    "Recipe Type": "食物",
+    "Part 1": "葡萄酒桶",
+    "Part 2": "空瓶",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "玻璃杯之葡萄酒",
+    "Recipe Type": "食物",
+    "Part 1": "葡萄酒桶",
+    "Part 2": "空杯",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之葡萄酒",
+    "Recipe Type": "食物",
+    "Part 1": "葡萄酒桶",
+    "Part 2": "空杯",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "木屑糊",
+    "Recipe Type": "物品",
+    "Part 1": "木屑",
+    "Part 2": "水桶｜桶之水｜水井",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "巫毒娃娃",
+    "Recipe Type": "物品",
+    "Part 1": "木制小雕像",
+    "Part 2": "针",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "纱线",
+    "Recipe Type": "物品",
+    "Part 1": "羊毛",
+    "Part 2": "羊毛",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "绳子",
+    "Recipe Type": "物品",
+    "Part 1": "纱线",
+    "Part 2": "纱线",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "骨灰",
+    "Recipe Type": "物品",
+    "Part 1": "骨头",
+    "Part 2": "研钵与研杵",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "水气球手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "肠子",
+    "Part 2": "杯之水",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "杯之苹果果汁",
+    "Recipe Type": "食物",
+    "Part 1": "空杯",
+    "Part 2": "苹果",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之油",
+    "Recipe Type": "物品",
+    "Part 1": "空杯",
+    "Part 2": "油桶",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "杯之橙子果汁",
+    "Recipe Type": "食物",
+    "Part 1": "空杯",
+    "Part 2": "橙子",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "冷薯条",
+    "Recipe Type": "食物",
+    "Part 1": "匕首｜小刀",
+    "Part 2": "土豆",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "皮革碎片",
+    "Recipe Type": "物品",
+    "Part 1": "匕首｜小刀",
+    "Part 2": "动物皮",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "南瓜头盔",
+    "Recipe Type": "护甲",
+    "Part 1": "匕首｜小刀",
+    "Part 2": "南瓜",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "击倒箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "匕首｜小刀",
+    "Part 2": "鹿角",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "箭箭杆",
+    "Recipe Type": "箭矢",
+    "Part 1": "匕首｜小刀",
+    "Part 2": "木制木桩｜树枝",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "打造长矛 01",
+    "Recipe Type": "武器",
+    "Part 1": "匕首",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "打造长矛 02",
+    "Recipe Type": "武器",
+    "Part 1": "匕首",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "打造长矛 03",
+    "Recipe Type": "武器",
+    "Part 1": "匕首",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "打造长矛 04",
+    "Recipe Type": "武器",
+    "Part 1": "匕首",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "打造长矛 05",
+    "Recipe Type": "武器",
+    "Part 1": "匕首",
+    "Part 2": "树枝",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "羽毛笔",
+    "Recipe Type": "物品",
+    "Part 1": "羽毛",
+    "Part 2": "小刀｜匕首",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "塞西尔派面团",
+    "Recipe Type": "食物",
+    "Part 1": "任意鱼",
+    "Part 2": "面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "眩晕箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "",
+    "Part 2": "",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔螃蟹钳",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "螃蟹爪",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔羽毛",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "羽毛（魔法）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔羽毛（精致）",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "羽毛（魔法）（精致）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔海星",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "海星（魔法）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔海星（发光）",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "海星（魔法）（发光）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔第三眼球",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "眼球（诡异）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "头盔第三眼球（阴森）",
+    "Recipe Type": "护甲",
+    "Part 1": "皮革头盔",
+    "Part 2": "眼球（诡异）（阴森）",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "奶酪面包",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "奶酪面包面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "正餐",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "食物鱼",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "瑞维隆薯条",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "冷薯条",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "苹果派",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "苹果派面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "塞西尔派",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "塞西尔派面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "披萨",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "披萨面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "煮熟土豆",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "土豆",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "捣碎土豆",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "冷土豆泥",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "南瓜汤",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "南瓜",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "熟伊什玛壳",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "伊什玛壳",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "面包",
+    "Recipe Type": "食物",
+    "Part 1": "烤炉",
+    "Part 2": "面团",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "泰尼布里姆锭",
+    "Recipe Type": "物品",
+    "Part 1": "烤炉",
+    "Part 2": "泰尼布里姆矿石",
+    "Skill": "锻造",
+    "Level": "4"
+  },
+  {
+    "Result": "铁锭",
+    "Recipe Type": "物品",
+    "Part 1": "烤炉",
+    "Part 2": "剑｜铁骨头｜铁矿石",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "大块铁锭",
+    "Recipe Type": "物品",
+    "Part 1": "烤炉",
+    "Part 2": "双手剑",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "银锭",
+    "Recipe Type": "物品",
+    "Part 1": "烤炉",
+    "Part 2": "银矿石",
+    "Skill": "锻造",
+    "Level": "2"
+  },
+  {
+    "Result": "钢锭",
+    "Recipe Type": "物品",
+    "Part 1": "烤炉",
+    "Part 2": "斧｜铁锭",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "大块钢锭",
+    "Recipe Type": "物品",
+    "Part 1": "烤炉",
+    "Part 2": "双手斧｜大块铁锭",
+    "Skill": "锻造",
+    "Level": "1"
+  },
+  {
+    "Result": "强化价值",
+    "Recipe Type": "护甲",
+    "Part 1": "珍珠",
+    "Part 2": "任意护甲",
+    "Skill": "工艺",
+    "Level": "1"
+  },
+  {
+    "Result": "闪光手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "空气抗性药剂",
+    "Part 2": "空罐",
+    "Skill": "工艺",
+    "Level": "4"
+  },
+  {
+    "Result": "静电云箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "空气抗性药剂",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "爆炸箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "火焰抗性药剂",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "3"
+  },
+  {
+    "Result": "体质减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "毒素药剂",
+    "Part 2": "骨灰",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "敏捷减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "毒素药剂",
+    "Part 2": "腱筋",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "智力减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "毒素药剂",
+    "Part 2": "受难灵魂",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "感知减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "毒素药剂",
+    "Part 2": "眼球",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "速度减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "毒素药剂",
+    "Part 2": "虚空精华",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "力量减益药剂",
+    "Recipe Type": "药剂",
+    "Part 1": "毒素药剂",
+    "Part 2": "牙齿",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "芥子毒气手雷",
+    "Recipe Type": "手雷",
+    "Part 1": "毒素药剂",
+    "Part 2": "空手雷",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "蒸汽箭头",
+    "Recipe Type": "箭矢",
+    "Part 1": "水抗性药剂",
+    "Part 2": "箭头",
+    "Skill": "工艺",
+    "Level": "2"
+  },
+  {
+    "Result": "附加抗性全",
+    "Recipe Type": "护甲附魔",
+    "Part 1": "红宝石",
+    "Part 2": "任意护甲",
+    "Skill": "工艺",
+    "Level": "5"
+  },
+  {
+    "Result": "弓弦",
+    "Recipe Type": "物品",
+    "Part 1": "腱筋",
+    "Part 2": "腱筋",
+    "Skill": "",
+    "Level": "0"
+  }
+]
